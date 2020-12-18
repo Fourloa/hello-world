@@ -1,4 +1,7 @@
 # hello-world
-my first repo
+
 Hello, I'm Argyro
-My goal is to wright someday, my own code for Malmquist Index caldulation!
+
+My ambition is to write someday, my own code for Malmquist Index caldulation!
+
+Any help is welcomed!
